@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="network_error">Во время загрузки произошла ошибка</string>
+    <string name="temp">%.2f℃</string>
+</resources>
